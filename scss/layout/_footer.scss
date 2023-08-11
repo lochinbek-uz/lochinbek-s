@@ -1,0 +1,17 @@
+.footer {
+  padding-top: 3.2rem;
+  padding-bottom: 3.2rem;
+  background-color: $dark-grey-color;
+}
+.footer__navigation__container {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+.fotter-btn {
+  font-size: 1.5rem;
+  transition: 0.3s;
+}
+.fotter-btn:hover {
+  opacity: 50%;
+}
